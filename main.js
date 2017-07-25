@@ -35,7 +35,7 @@ let math = high - low;
 // 6.
 // What is `math` set to?
 math = high - "5";
-// A: 35
+// A: 45
 
 
 // 7.
